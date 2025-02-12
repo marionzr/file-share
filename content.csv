@@ -3,24 +3,24 @@ article1.html;Introduction to .NET;2024-12-11 01:59:08 +0100;C# .NET Development
 article2.html;Understanding .NET Core;2024-12-11 11:59:08 +0100;C# .NET Core MVC
 article3.html;Building a REST API in .NET;2024-12-12 09:30:00 +0100;ASP.NET Core WebAPI REST
 article4.html;Working with Entity Framework in .NET;2024-12-13 10:15:00 +0100;EF Core .NET Database
-article5.html;Using Dependency Injection in .NET;2024-12-13 14:45:00 +0100;C# DI .NET Core
-article6.html;Deploying .NET Applications to Azure;2024-12-14 16:00:00 +0100;Azure .NET Cloud
-article7.html;Mastering LINQ in .NET;2024-12-14 18:30:00 +0100;C# LINQ .NET Development
-article8.html;Exploring .NET MAUI;2024-12-15 07:30:00 +0100;C# .NET MAUI Mobile
-article9.html;Testing .NET Applications with xUnit;2024-12-15 11:00:00 +0100;Testing xUnit .NET
-article10.html;Async Programming in .NET;2024-12-16 02:45:00 +0100;C# Async .NET
-article11.html;Introduction to Blazor;2024-12-16 09:30:00 +0100;Blazor .NET WebAssembly
-article12.html;Building Microservices with .NET;2024-12-17 08:00:00 +0100;Microservices .NET Core
-article13.html;ASP.NET Core Authentication and Authorization;2024-12-17 12:15:00 +0100;ASP.NET Core Authentication
-article14.html;Real-time Communication with SignalR in .NET;2024-12-18 07:45:00 +0100;SignalR .NET WebSockets
-article15.html;Creating Serverless Apps with .NET on AWS;2024-12-18 14:00:00 +0100;AWS Serverless .NET
-article16.html;Advanced C# Patterns;2024-12-19 09:00:00 +0100;C# .NET Patterns
-article17.html;Introduction to .NET 7;2024-12-19 15:30:00 +0100;C# .NET 7
-article18.html;Building Single Page Applications with Blazor;2024-12-20 11:30:00 +0100;Blazor SPA .NET
-article19.html;Building RESTful APIs with ASP.NET Core;2024-12-21 01:00:00 +0100;ASP.NET Core WebAPI REST
-article20.html;Implementing CQRS with .NET;2024-12-21 12:30:00 +0100;CQRS .NET
-article21.html;Web Scraping with .NET;2024-12-22 09:00:00 +0100;C# Web Scraping .NET
-article22.html;Unit Testing in .NET Core;2024-12-22 15:45:00 +0100;Testing .NET Core
-article23.html;Exploring .NET for Desktop Apps;2024-12-23 10:30:00 +0100;C# .NET Desktop
-article24.html;Exploring the .NET SDK;2024-12-23 16:00:00 +0100;C# .NET SDK
-article25.html;Integrating .NET with Angular;2024-12-24 08:15:00 +0100;C# .NET Angular
+article5.html;A Comprehensive Guide to Dependency Injection in .NET Framework and Core;2024-12-13 14:45:00 +0100;C# DI .NET Core Web
+article6.html;Deploying .NET Applications to Azure Cloud with Continuous Integration;2024-12-14 16:00:00 +0100;Azure .NET Cloud CI/CD DevOps
+article7.html;Mastering LINQ in .NET for Data Queries and Manipulation;2024-12-14 18:30:00 +0100;C# LINQ .NET Data Queries
+article8.html;Exploring .NET MAUI for Cross-Platform Mobile App Development;2024-12-15 07:30:00 +0100;C# .NET MAUI Mobile
+article9.html;Testing .NET Applications with xUnit and Mocking Dependencies;2024-12-15 11:00:00 +0100;Testing xUnit .NET Mocking
+article10.html;Async Programming in .NET and How It Improves Application Performance;2024-12-16 02:45:00 +0100;C# Async .NET Performance
+article11.html;Introduction to Blazor and WebAssembly in .NET for Interactive Web Apps;2024-12-16 09:30:00 +0100;Blazor .NET WebAssembly SPA
+article12.html;Building Microservices with .NET and Docker for Scalable Solutions;2024-12-17 08:00:00 +0100;Microservices .NET Core Docker
+article13.html;ASP.NET Core Authentication and Authorization Best Practices;2024-12-17 12:15:00 +0100;ASP.NET Core Authentication Security
+article14.html;Real-time Communication with SignalR in .NET Using WebSockets;2024-12-18 07:45:00 +0100;SignalR .NET WebSockets Real-time
+article15.html;Creating Serverless Apps with .NET on AWS Lambda for Event-Driven Architecture;2024-12-18 14:00:00 +0100;AWS Serverless .NET Lambda
+article16.html;Advanced C# Patterns for Optimizing .NET Application Design;2024-12-19 09:00:00 +0100;C# .NET Patterns Architecture
+article17.html;Introduction to .NET 7 and Its New Features for Developers;2024-12-19 15:30:00 +0100;C# .NET 7 Features
+article18.html;Building Single Page Applications with Blazor and .NET;2024-12-20 11:30:00 +0100;Blazor SPA .NET WebAssembly
+article19.html;Building RESTful APIs with ASP.NET Core and Best Practices;2024-12-21 01:00:00 +0100;ASP.NET Core WebAPI REST
+article20.html;Implementing CQRS with .NET and Event Sourcing for Scalable Systems;2024-12-21 12:30:00 +0100;CQRS .NET Event Sourcing
+article21.html;Web Scraping with .NET: Using HtmlAgilityPack for Data Extraction;2024-12-22 09:00:00 +0100;C# Web Scraping .NET HtmlAgilityPack
+article22.html;Unit Testing in .NET Core with Mocking and Dependency Injection;2024-12-22 15:45:00 +0100;Testing .NET Core DI Mocking
+article23.html;Exploring .NET for Desktop Apps with WinForms and WPF;2024-12-23 10:30:00 +0100;C# .NET Desktop WinForms WPF
+article24.html;Exploring the .NET SDK for Command-Line Tools and Libraries;2024-12-23 16:00:00 +0100;C# .NET SDK CLI Libraries
+article25.html;Integrating .NET with Angular for Full-Stack Web Applications;2024-12-24 08:15:00 +0100;C# .NET Angular Full-Stack
