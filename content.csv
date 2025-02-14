@@ -1,26 +1,13 @@
-filename;title;publishedat;tags
-article1.html;Introduction to .NET;2024-12-11 01:59:08 +0100;C# .NET Development Web
-article2.html;Understanding .NET Core;2024-12-11 11:59:08 +0100;C# .NET Core MVC
-article3.html;Building a REST API in .NET;2024-12-12 09:30:00 +0100;ASP.NET Core WebAPI REST
-article4.html;Working with Entity Framework in .NET;2024-12-13 10:15:00 +0100;EF Core .NET Database
-article5.html;A Comprehensive Guide to Dependency Injection in .NET Framework and Core;2024-12-13 14:45:00 +0100;C# DI .NET Core Web
-article6.html;Deploying .NET Applications to Azure Cloud with Continuous Integration;2024-12-14 16:00:00 +0100;Azure .NET Cloud CI/CD DevOps
-article7.html;Mastering LINQ in .NET for Data Queries and Manipulation;2024-12-14 18:30:00 +0100;C# LINQ .NET Data Queries
-article8.html;Exploring .NET MAUI for Cross-Platform Mobile App Development;2024-12-15 07:30:00 +0100;C# .NET MAUI Mobile
-article9.html;Testing .NET Applications with xUnit and Mocking Dependencies;2024-12-15 11:00:00 +0100;Testing xUnit .NET Mocking
-article10.html;Async Programming in .NET and How It Improves Application Performance;2024-12-16 02:45:00 +0100;C# Async .NET Performance
-article11.html;Introduction to Blazor and WebAssembly in .NET for Interactive Web Apps;2024-12-16 09:30:00 +0100;Blazor .NET WebAssembly SPA
-article12.html;Building Microservices with .NET and Docker for Scalable Solutions;2024-12-17 08:00:00 +0100;Microservices .NET Core Docker
-article13.html;ASP.NET Core Authentication and Authorization Best Practices;2024-12-17 12:15:00 +0100;ASP.NET Core Authentication Security
-article14.html;Real-time Communication with SignalR in .NET Using WebSockets;2024-12-18 07:45:00 +0100;SignalR .NET WebSockets Real-time
-article15.html;Creating Serverless Apps with .NET on AWS Lambda for Event-Driven Architecture;2024-12-18 14:00:00 +0100;AWS Serverless .NET Lambda
-article16.html;Advanced C# Patterns for Optimizing .NET Application Design;2024-12-19 09:00:00 +0100;C# .NET Patterns Architecture
-article17.html;Introduction to .NET 7 and Its New Features for Developers;2024-12-19 15:30:00 +0100;C# .NET 7 Features
-article18.html;Building Single Page Applications with Blazor and .NET;2024-12-20 11:30:00 +0100;Blazor SPA .NET WebAssembly
-article19.html;Building RESTful APIs with ASP.NET Core and Best Practices;2024-12-21 01:00:00 +0100;ASP.NET Core WebAPI REST
-article20.html;Implementing CQRS with .NET and Event Sourcing for Scalable Systems;2024-12-21 12:30:00 +0100;CQRS .NET Event Sourcing
-article21.html;Web Scraping with .NET: Using HtmlAgilityPack for Data Extraction;2024-12-22 09:00:00 +0100;C# Web Scraping .NET HtmlAgilityPack
-article22.html;Unit Testing in .NET Core with Mocking and Dependency Injection;2024-12-22 15:45:00 +0100;Testing .NET Core DI Mocking
-article23.html;Exploring .NET for Desktop Apps with WinForms and WPF;2024-12-23 10:30:00 +0100;C# .NET Desktop WinForms WPF
-article24.html;Exploring the .NET SDK for Command-Line Tools and Libraries;2024-12-23 16:00:00 +0100;C# .NET SDK CLI Libraries
-article25.html;Integrating .NET with Angular for Full-Stack Web Applications;2024-12-24 08:15:00 +0100;C# .NET Angular Full-Stack
+filename;title;subtitle;publishedat;tags;image
+demo.html;ACME School of Boxing: Train Like a Champion!;Unleash Your Inner Fighter with This Revolutionary Training Device;2024-10-10 01:59:08 +0100;ACME Boxing Fitness Training;https://static.wikia.nocookie.net/looneytunes/images/1/19/ACME_School_of_Boxing-1.png
+demo.html;ACME Super Outfit: Superhero in Style!;Become a Real-Life Superhero with the Latest ACME Outfit;2024-10-14 11:59:08 +0100;ACME Fashion Superhero Outfit;https://static.wikia.nocookie.net/looneytunes/images/6/64/Super_Outfit.png
+demo.html;ACME School of Boxing: Knockout Performance!;Master the Art of Combat with This Boxing Simulation;2024-10-17 09:30:00 +0100;ACME Boxing Power Training;https://static.wikia.nocookie.net/looneytunes/images/2/2e/ACME_School_of_Boxing-2.png
+demo.html;ACME Aspirin: Instant Relief for the Strong-Willed!;Soothe Those Battle Wounds with ACME's Revolutionary Painkiller;2024-10-21 10:15:00 +0100;ACME Relief Health Painkiller;https://static.wikia.nocookie.net/looneytunes/images/b/b6/Aspirin.png
+demo.html;ACME Street Cleaners Wagon: Clean the Streets in Style!;Sweep Through the City with the Ultimate Street Cleaning Machine;2024-10-23 14:45:00 +0100;ACME Cleanup Fun City;https://static.wikia.nocookie.net/looneytunes/images/2/2a/Street_Cleaners_Wagon.png
+demo.html;ACME Giant Kite Kit: Reach New Heights!;Soar Above the Clouds with the Biggest Kite Ever!;2024-10-25 16:00:00 +0100;ACME Kite Adventure Outdoors;https://static.wikia.nocookie.net/looneytunes/images/a/ae/Giant_Kite_Kit.png
+demo.html;ACME Detonator: Boom with Precision!;Set Off Explosions Exactly When You Need Them—With Zero Fuss!;2024-10-27 18:30:00 +0100;ACME Explosion Precision Boom;https://static.wikia.nocookie.net/looneytunes/images/a/a3/Detonator.png
+demo.html;ACME Leg Muscle Vitamins: The Secret to Stronger Legs!;Boost Your Leg Power with This Magic Vitamin Formula;2024-10-30 07:30:00 +0100;ACME Muscle Power Vitamins;https://static.wikia.nocookie.net/looneytunes/images/8/8c/Leg_Muscle_Vitamins.png
+demo.html;ACME Female Road Runner Costume: Be the Fastest Bird!;Run Like the Wind in This Speedy and Stylish Road Runner Costume!;2024-11-02 14:45:00 +0100;ACME Costume Speed Run;https://static.wikia.nocookie.net/looneytunes/images/8/83/Female_Road_Runner_Costume.png
+demo.html;ACME Smoke Screen Bomb: Disappear in Style!;Vanish in a Cloud of Smoke with This Ultimate Escape Device;2024-11-05 12:30:00 +0100;ACME Escape Smoke Bomb;https://static.wikia.nocookie.net/looneytunes/images/1/17/Smoke_Screen_Bomb.png
+demo.html;ACME Bat-Man's Outfit: Fly Like a Bat!;Unleash Your Inner Dark Knight with This ACME Bat-Man Suit!;2024-11-08 16:30:00 +0100;ACME Hero Outfit Bat-Man;https://static.wikia.nocookie.net/looneytunes/images/d/da/Bat-Man%27s_Outfit.png
+demo.html;ACME Handle Bars: For the Ultimate Rider!;Upgrade Your Bike with These Stylish, Heavy-Duty Handle Bars;2024-11-11 09:45:00 +0100;ACME Bike Upgrade Cycling;https://static.wikia.nocookie.net/looneytunes/images/6/61/Handle_Bars.png
