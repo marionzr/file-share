@@ -1,3 +1,3 @@
-filename;title;subtitle;commit-date;tags;article
+filename;title;subtitle;publishedat;tags;image
 articles/demo.html;Welcome to ACME Corporation;Revolutionizing the World with Bold Innovations;2025-02-14 22:54:03 +0100;ACME Bike Upgrade Boxing;https://upload.wikimedia.org/wikipedia/commons/6/6e/Acme-corp.png
 articles/template.html;<title></title>;;2025-02-14 22:54:03 +0100;;
