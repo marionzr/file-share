@@ -1,13 +1,3 @@
-filename;title;subtitle;publishedat;tags;image
-demo.html;ACME School of Boxing: Train Like a Champion!;Unleash Your Inner Fighter with This Revolutionary Training Device;2024-10-10 01:59:08 +0100;ACME Boxing Fitness Training;https://static.wikia.nocookie.net/looneytunes/images/1/19/ACME_School_of_Boxing-1.png
-demo.html;ACME Super Outfit: Superhero in Style!;Become a Real-Life Superhero with the Latest ACME Outfit;2024-10-14 11:59:08 +0100;ACME Fashion Superhero Outfit;https://static.wikia.nocookie.net/looneytunes/images/6/64/Super_Outfit.png
-demo.html;ACME School of Boxing: Knockout Performance!;Master the Art of Combat with This Boxing Simulation;2024-10-17 09:30:00 +0100;ACME Boxing Power Training;https://static.wikia.nocookie.net/looneytunes/images/2/2e/ACME_School_of_Boxing-2.png
-demo.html;ACME Aspirin: Instant Relief for the Strong-Willed!;Soothe Those Battle Wounds with ACME's Revolutionary Painkiller;2024-10-21 10:15:00 +0100;ACME Relief Health Painkiller;https://static.wikia.nocookie.net/looneytunes/images/b/b6/Aspirin.png
-demo.html;ACME Street Cleaners Wagon: Clean the Streets in Style!;Sweep Through the City with the Ultimate Street Cleaning Machine;2024-10-23 14:45:00 +0100;ACME Cleanup Fun City;https://static.wikia.nocookie.net/looneytunes/images/2/2a/Street_Cleaners_Wagon.png
-demo.html;ACME Giant Kite Kit: Reach New Heights!;Soar Above the Clouds with the Biggest Kite Ever!;2024-10-25 16:00:00 +0100;ACME Kite Adventure Outdoors;https://static.wikia.nocookie.net/looneytunes/images/a/ae/Giant_Kite_Kit.png
-demo.html;ACME Detonator: Boom with Precision!;Set Off Explosions Exactly When You Need Them—With Zero Fuss!;2024-10-27 18:30:00 +0100;ACME Explosion Precision Boom;https://static.wikia.nocookie.net/looneytunes/images/a/a3/Detonator.png
-demo.html;ACME Leg Muscle Vitamins: The Secret to Stronger Legs!;Boost Your Leg Power with This Magic Vitamin Formula;2024-10-30 07:30:00 +0100;ACME Muscle Power Vitamins;https://static.wikia.nocookie.net/looneytunes/images/8/8c/Leg_Muscle_Vitamins.png
-demo.html;ACME Female Road Runner Costume: Be the Fastest Bird!;Run Like the Wind in This Speedy and Stylish Road Runner Costume!;2024-11-02 14:45:00 +0100;ACME Costume Speed Run;https://static.wikia.nocookie.net/looneytunes/images/8/83/Female_Road_Runner_Costume.png
-demo.html;ACME Smoke Screen Bomb: Disappear in Style!;Vanish in a Cloud of Smoke with This Ultimate Escape Device;2024-11-05 12:30:00 +0100;ACME Escape Smoke Bomb;https://static.wikia.nocookie.net/looneytunes/images/1/17/Smoke_Screen_Bomb.png
-demo.html;ACME Bat-Man's Outfit: Fly Like a Bat!;Unleash Your Inner Dark Knight with This ACME Bat-Man Suit!;2024-11-08 16:30:00 +0100;ACME Hero Outfit Bat-Man;https://static.wikia.nocookie.net/looneytunes/images/d/da/Bat-Man%27s_Outfit.png
-demo.html;ACME Handle Bars: For the Ultimate Rider!;Upgrade Your Bike with These Stylish, Heavy-Duty Handle Bars;2024-11-11 09:45:00 +0100;ACME Bike Upgrade Cycling;https://static.wikia.nocookie.net/looneytunes/images/6/61/Handle_Bars.png
+filename;title;subtitle;commit-date;tags;article-image
+articles/demo.html;Welcome to ACME Corporation;Revolutionizing the World with Bold Innovations;2025-02-14 22:54:03 +0100;ACME Bike Upgrade Boxing;https://upload.wikimedia.org/wikipedia/commons/6/6e/Acme-corp.png
+articles/template.html;<title></title>;;2025-02-14 22:54:03 +0100;;
